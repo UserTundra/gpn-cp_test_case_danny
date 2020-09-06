@@ -1,0 +1,14 @@
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\test_case_danny.exe.config
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\x86\e_sqlite3.dll
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\x64\e_sqlite3.dll
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\test_case_danny.exe
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\test_case_danny.pdb
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\SQLite-net.dll
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\SQLitePCLRaw.batteries_green.dll
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\SQLitePCLRaw.core.dll
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\bin\Debug\SQLite-net.xml
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\obj\Debug\test_case_danny.csprojResolveAssemblyReference.cache
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\obj\Debug\test_case_danny.exe
+c:\users\дарья\documents\visual studio 2015\Projects\test_case_danny\test_case_danny\obj\Debug\test_case_danny.pdb
